@@ -1,0 +1,23 @@
+html {
+  display: table;
+  margin: auto;
+}
+  body
+  {
+    background-color: #fffade;
+
+  }
+  hr{
+    background-color: #fffade;
+    border-top: 8px dotted grey;
+
+    width: 15%;
+  }
+h1,h2,h3{
+  color: #66bfbf;
+}
+
+.circular
+{
+  border-radius: 100%;
+}
